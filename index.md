@@ -5,9 +5,16 @@ subtitle: Conservation biologist, conservation criminologist, photographer, and 
 image: /assets/images/mpierre_avatar_20210607.png
 ---
 
-Who Am I? - Research - Teaching - Photo/Video/Writing - CV - Social Media
+<br>
+##### Who Am I?
+##### Research
+##### Teaching
+##### Photo/Video/Writing
+##### CV
+##### Social Media
 
 <br>
+
 ##### [Github](https://github.com/meshachpierre){:target="_blank"}
 ##### [Creative Work]({{ my_page.url | relative_url }}/creative)
 ##### [Resume](/assets/Resume.pdf){:target="_blank"}
