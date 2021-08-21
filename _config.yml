@@ -24,6 +24,13 @@ github_username:  meshachpierre
 
 repository: "meshachpierre/meshachpierre.github.io"
 
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
+
 # Build settings
 plugins:
   - jekyll-feed
