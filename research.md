@@ -43,6 +43,8 @@ I am part of a collaborative project that aims to understand the impacts of extr
 
 This project (in collaboration with <a href = "https://rupununiwildlife.org/">Dr. Matthew Hallett</a> and <a href = "http://caimanhouse.com/">Caiman House</a>) was the first study of human-black caiman conflict in the Rupununi region of Guyana. We collected survey data on fishing behaviour, attitudes towards and interactions with black caiman (<i>Melanosuchus niger</i>), the largest aquatic predator in South America.
 
+This project served as the final project for my Postgraduate Diploma in International Wildlife Conservation Practice at the Wildlife Conservation Research Unit (WildCRU), University of Oxford. I was supervised by <a href = "https://www.zoo.ox.ac.uk/people/dr-claudio-sillero#/">Prof. Claudio Sillero-Zubiri</a> and <a href = "https://scholar.google.com/citations?user=EVJ010MAAAAJ&hl=fil">Dr. Kim Jacobsen</a>.
+
 We are currently in the process of publishing our results in a peer-reviewed journal. Once they are accepted, they will be disseminated broadly.
 
 ##### Jaguar populations in a mixed-land use landscape (2014-2015)
