@@ -2,8 +2,11 @@
 layout: page
 title: Creative Work
 ---
-
 ## Photography, Videography, and Writing
+
+<a href = "#photography">Photography</a>
+<br><a href = "#videography">Videography</a>
+<br><a href = "#writing">Writing</a>
 
 <img src = "assets/images/creative/me_river.jpg" alt = "Me at sea with my camera">
 
