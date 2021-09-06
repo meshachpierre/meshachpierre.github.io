@@ -11,7 +11,7 @@ title: Who Am I?
 
 <figure>
 <img src="assets/images/whoami/bird_ah.jpg" alt = "Handling a bird (Photo: © Arianne-Elise Harris)"/>
-<text align = "center"><figcaption><i>Handling a red-billed woodcreeper (Hylexetastes perrotii; Photo: © <a href = "https://www.linkedin.com/in/arianne-harris-1b11b9189/?originalSubdomain=gy" target="_blank">Arianne-Elise Harris</a>)</i></figcaption></text>
+<text align = "center"><figcaption><i>Handling a red-billed woodcreeper (Hylexetastes perrotii; Photo: © <a href = "https://twitter.com/Tortured_Minds_" target="_blank">Arianne-Elise Harris</a>)</i></figcaption></text>
 </figure>
 
 I am from Georgetown, Guyana, and have worked in both Guyana and Suriname, conducting field research on birds, mammals, and most recently, human-wildlife co-existence and conflict.
