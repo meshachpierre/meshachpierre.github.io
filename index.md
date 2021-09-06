@@ -18,7 +18,7 @@ More about me:
 
 - **MA student** in [Criminology, Law, and Society](https://soccrim.clas.ufl.edu/graduate/criminology/academics/the-m-a-degree/), University of Florida (2021-present)
 - **PGDip** in [International Wildlife Conservation Practice](https://www.wildcru.org/courses/diploma/), [University of Oxford](https://www.ox.ac.uk/)/[WildCRU alumnus](https://www.wildcru.org/members/meshach-pierre/) (2018)
-- **BSc** in Biology (General Option), [University of Guyana alumnus](https://www.uog.edu.gy/) (2010-2014)
+- **BSc** in Biology (General Option), [University of Guyana](https://www.uog.edu.gy/) alumnus (2010-2014)
 - **Advisors**: [Dr. Jessica S. Kahler](https://soccrim.clas.ufl.edu/jessica-kahler/) and [Dr. Matthew T. Hallett](https://uftcd.org/people/core-faculty-staff/matthew-t-hallett/)
 - **Interests**: Conservation criminology, Human dimensions of wildlife conservation, Indigenous natural resources management, Ecology and conservation of birds and mammals,	Scientific communication and outreach, Environmental sociology,	Sustainable development
 - **Programming languages**: R (proficient), Python (basic), Stata (basic)
