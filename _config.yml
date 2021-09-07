@@ -5,6 +5,8 @@ permalink: /:categories/:year/:month/:day/:title.html
 markdown:         kramdown
 highlighter:      rouge
 excerpt_separator: <!--more-->
+plugins:
+ - jekyll-seo-tag
 
 # Config for your profile.
 title: Meshach A. Pierre            # Site title

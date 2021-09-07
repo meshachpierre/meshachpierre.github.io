@@ -4,11 +4,6 @@ permalink: whoami.html
 narrow: True
 title: Who Am I?
 ---
-<a href = "#overview">Overview</a>
-<br><a href = "#my-journey">My Journey</a>
-<br><a href = "#mental-health">Mental Health</a>
-<br><a href = "#the-future">The Future</a>
-
 ## Overview
 
 <figure>
@@ -39,7 +34,7 @@ It was on this expedition that I met people that would go on to become mentors, 
 <text align = "center"><figcaption><i>A jaguar print on a logging road</i></figcaption></text>
 </figure>
 
-After the <a href="https://www.panthera.org/cms/sites/default/files/Panthera_WinstonCobbMemorialFellowship.pdf" target="_blank">Panthera Winston Cobb Fellowship</a>, I continued to seek opportunities in Guyana and abroad. I continued to apply for postgraduate programs as well, but funding was a major roadblock. Still, I worked with <a href = "https://naturalsciences.org/staff/brian-oshea" target = "_blank">Brian</a> in Suriname setting up and conducting his bird banding project in the <a href = https://peperpotnaturepark.com/"" target = "_blank">Peperpot Nature Park</a>. I then volunteered for the South Rupununi Conservation Society to develop educational materials for distribution in schools in the communities they worked with. I lived temporarily in the South Rupununi for a couple of months, following the SRCS members on their research and outreach activities, while updating their social media page with the photos I'd taken.
+After the <a href="https://www.panthera.org/cms/sites/default/files/Panthera_WinstonCobbMemorialFellowship.pdf" target="_blank">Panthera Winston Cobb Fellowship</a>, I continued to seek opportunities in Guyana and abroad. I continued to apply for postgraduate programs as well, but funding was a major roadblock. Still, I worked with <a href = "https://naturalsciences.org/staff/brian-oshea" target = "_blank">Brian</a> in Suriname setting up and conducting his bird banding project in the <a href = "https://peperpotnaturepark.com/" target = "_blank">Peperpot Nature Park</a>. I then volunteered for the <a href = "https://www.srcs-gy.com/">South Rupununi Conservation Society</a> to develop educational materials for distribution in schools in the communities they worked with. I lived temporarily in the South Rupununi for a couple of months, following the <a href = "https://www.srcs-gy.com/">SRCS</a> members on their research and outreach activities, while updating their social media page with the photos I'd taken.
 
 <figure>
 <img src="assets/images/whoami/srcs.jpg" class = "img-fluid" alt = "Hiking to an SRCS study site"/>
@@ -53,7 +48,7 @@ After this, Evi and I worked with <a href = "https://conservation.org.gy/" targe
 <text align = "center"><figcaption><i>WildCRU 2018 Panthers at Old Man of Conniston, Lake District, UK</i></figcaption></text>
 </figure>
 
-On my way to <a href = "https://www.wildcru.org/" target = "_blank">WildCRU</a>, I took a pit stop in Gainesville with <a href = "http://rupununiwildlife.org/">Matt</a>, and met various professors, shopping for a potential future advisor. None of the people I met turned out to be my future advisor at the <a href = "https://www.ufl.edu/" target = "_blank">University of Florida (UF)</a>. While at <a href = "https://www.wildcru.org/" target = "_blank">WildCRU</a>, my final project was the analysis of the black caiman conflict project data. I took on human-wildlife coexistence and conflict as one of my major areas of interest. <a href = "http://rupununiwildlife.org" target = "_blank">Matt</a> met and introduced me to <a href = "https://soccrim.clas.ufl.edu/jessica-kahler/" target = "_blank">>Dr. Jessica Kahler, in the <a href = "https://soccrim.clas.ufl.edu/" target = "_blank">Department of Sociology and Criminology & Law</a> at UF, and I made one of the most unexpected left turns in my life history: choosing to do a <a href = "https://soccrim.clas.ufl.edu/graduate/criminology/academics/the-m-a-degree/" target = "_blank">Master's in Criminology, Law, and Society</a>. And that's where I am now.
+On my way to <a href = "https://www.wildcru.org/" target = "_blank">WildCRU</a>, I took a pit stop in Gainesville with <a href = "http://rupununiwildlife.org/">Matt</a>, and met various professors, shopping for a potential future advisor. None of the people I met turned out to be my future advisor at the <a href = "https://www.ufl.edu/" target = "_blank">University of Florida (UF)</a>. While at <a href = "https://www.wildcru.org/" target = "_blank">WildCRU</a>, my final project was the analysis of the black caiman conflict project data. I took on human-wildlife coexistence and conflict as one of my major areas of interest. <a href = "http://rupununiwildlife.org" target = "_blank">Matt</a> met and introduced me to <a href = "https://soccrim.clas.ufl.edu/jessica-kahler/" target = "_blank">Dr. Jessica Kahler, in the <a href = "https://soccrim.clas.ufl.edu/" target = "_blank">Department of Sociology and Criminology & Law</a> at UF, and I made one of the most unexpected left turns in my life history: choosing to do a <a href = "https://soccrim.clas.ufl.edu/graduate/criminology/academics/the-m-a-degree/" target = "_blank">Master's in Criminology, Law, and Society</a>. And that's where I am now.
 
 <figure>
 <img src="assets/images/whoami/ma_crim.jpg" class = "img-fluid" alt = "MA Criminology fieldwork"/>

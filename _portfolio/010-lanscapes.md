@@ -1,5 +1,6 @@
 ---
 title: Landscapes
+image: /assets/photos/landscape/01.jpg
 ---
 
 <div class="card-columns">

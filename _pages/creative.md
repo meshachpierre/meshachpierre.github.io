@@ -28,9 +28,9 @@ My photography has been featured in local gallery exhibitions, as well as newspa
   - Republished: <a href = "https://explorepartsunknown.com/queens/the-siren-song-of-the-mighty-towa-towa/"> The Siren Song of the Mighty Towa Towa.</a> <i>Explore Parts Unknown</i>: 18th May, 2017. CNN. 
 - Suriname: Birds in a changing landscape. <i>North Carolina Naturalist</i>: Spring 2016, Vol. 24, No. 2.
 
-## Photography portfolio
+## <a href="/list/portfolio.html">Photography portfolio</a>
 
- **<a href="/list/portfolio.html">My portfolio section</a> is still under construction.** For now, please see my <a href = "https://www.instagram.com/meshachpierre/">Instagram page</a>
+ **<a href="/list/portfolio.html">My portfolio</a> is available, but is still under construction.** For a full overview of my work, please see my <a href = "https://www.instagram.com/meshachpierre/">Instagram page</a>
 
 ## Videography
 I have filmed and edited two short documentaries about research and conservation in the Guianas. A few of them are hosted on my <a href = "https://www.youtube.com/channel/UCwerm_WcVUhnuBqDBaROYeA">Youtube channel</a>. They are embedded below:

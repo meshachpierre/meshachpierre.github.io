@@ -4,7 +4,10 @@ permalink: teaching.html
 narrow: true
 title: Teaching
 ---
+<figure>
 <img src = "assets/images/teaching/demonstrating.jpg" class = "img-fluid" alt = "Showing students a hawk on Opwall 2014"/>
+<text align = "center"><figcaption><i>Showing students a black-faced hawk (Leucopturnis melanops) on Opwall 2014</i></figcaption></text>
+</figure>
 
 ## Teaching Experience
 
@@ -12,7 +15,7 @@ My teaching experience has been mostly in the field. The <a href = "https://www.
 
 <figure>
 <img src = "assets/images/teaching/opwall.jpg" class = "img-fluid" alt = "Teaching bird handling in the field"/>
-<figcaption><i>Teaching bird handling in the field (Photo ©: <a href ="https://www.linkedin.com/in/alice-petherick/?originalSubdomain=uk" target = "_blank">Alice Petherick</a></i></figcaption>
+<text align = "center"><figcaption><i>Teaching bird handling in the field (Photo ©: <a href ="https://www.linkedin.com/in/alice-petherick/?originalSubdomain=uk" target = "_blank">Alice Petherick</a>)</i></figcaption></text>
 </figure>
 
 I also briefly led an R coding club at the University of Guyana in 2019, and taught a cohort of University of Guyana students and faculty introductory coding in R with the *tidyverse* package.
