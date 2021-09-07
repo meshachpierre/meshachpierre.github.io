@@ -1,5 +1,7 @@
 ---
 title: Wildlife
+image:
+ - "/assets/photos/wildlife/01.jpg"
 ---
 
 <div class="card-columns">

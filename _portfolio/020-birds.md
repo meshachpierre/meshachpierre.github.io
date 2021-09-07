@@ -1,5 +1,7 @@
 ---
 title: Birds
+image:
+ - "/assets/photos/birds/01.jpg"
 ---
 
 <div class="card-columns">
