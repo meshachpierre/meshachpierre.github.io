@@ -1,19 +1,18 @@
+# Friday Theme
 
-# Boostrap 4 Github Pages
+## A Bootstrap 4 portfolio and blog theme for Jekyll
 
-A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
+* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
+* Example 2: my own homepage, http://www.freytag.org.uk
 
-* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
-* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
-* Full support of Bootstrap's JavaScript plugins.
-* Supports all features of Github Pages and Jekyll.
+## Get Started
 
-[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
+Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
 
-## Contribution
+## Usage
 
-[See the contribution guide.](./CONTRIBUTING.md)
+The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
 
-## License
+## Jekyll Version
 
-[See the license file.](./LICENSE.md)
+__Watch out!__ This theme uses {{site.baseurl}} throughout, so is not currently suitable for Jekyll 4. It works well with 3.8.5 and works well with GitHub Pages.

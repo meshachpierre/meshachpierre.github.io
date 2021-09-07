@@ -1,0 +1,20 @@
+- title: Home
+  href: index.html
+
+- title: Who Am I?
+  href: whoami.html
+
+- title: Research
+  href: research.html
+
+- title: Teaching
+  href: teaching.html
+
+- title: Creative Work
+  href: creative.html
+
+- title: Photography Portfolio
+  href: list/portfolio.html
+
+- title: Curriculum Vitae
+  href: assets/meshachpierre_cv.pdf

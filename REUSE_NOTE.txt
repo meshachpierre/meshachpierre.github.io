@@ -1,8 +1,0 @@
-Hi, new Meshach,
-
-Meshach from the past here. I'm pushing this to a new repo then cloning a different theme here, with the goal of getting
-a gallery going. This theme seems a lot more flexible and well-documented, in which case I will get everything going bit
--by-bit. If anything critically goes wrong, then refer back to this repo and this file for further information.
-
-I was attempting to make a portfolio but kept running into having to fuse multiple themes/website plans entirely and it
-was too complicated and wouldn't work. I'm now going to try switching themes entirely.
