@@ -3,9 +3,13 @@ title: Wildlife
 ---
 
 <div class="card-columns">
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ img }}">
-        <img class="card-img-top" src="{{ img }}" />
+    {% for image in site.static_files %}
+    {% if image.path contains 'assets/photos/wildlife' %}
+    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ site.baseurl }}{{ image.path }}">
+        <img class="card-img-top" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     </div>
+    {% endif %}
+    {% endfor %}
 </div>
 
 <div class="modal fade" id="exampleModal">

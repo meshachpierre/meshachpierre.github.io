@@ -3,84 +3,13 @@ title: Landscapes
 ---
 
 <div class="card-columns">
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/01_red_sis_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/01_red_sis_1.jpg" />
+    {% for image in site.static_files %}
+    {% if image.path contains 'assets/photos/landscape' %}
+    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="{{ site.baseurl }}{{ image.path }}">
+        <img class="card-img-top" src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/02_bro_boo_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/02_bro_boo_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/03_ghe_man_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/03_ghe_man_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/04_sun_bit_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/04_sun_bit_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/05_bla_gul_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/05_bla_gul_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/06_bur_owl_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/06_bur_owl_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/07_thi_kne_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/07_thi_kne_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/09_bel_kin_1.jpg.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/09_bel_kin_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/10_bla_cur_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/10_bla_cur_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/11_bla_vul_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/11_bla_vul_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/12_gre_jac_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/12_gre_jac_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/13_str_owl_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/13_str_owl_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
-    <div class="card" data-toggle="modal" data-target="#exampleModal" data-img="/assets/photos/birds/08_ame_kes_1.jpg">
-        <img class="card-img-top" src="/assets/photos/birds/08_ame_kes_1.jpg" />
-    </div>
+    {% endif %}
+    {% endfor %}
 </div>
 
 <div class="modal fade" id="exampleModal">
