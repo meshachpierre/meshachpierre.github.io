@@ -4,6 +4,8 @@ image:
  - "/assets/photos/miscellaneous/01.jpg"
 ---
 
+Odds and ends. Many of these are abstract in some way.
+
 <div class="card-columns">
     {% for image in site.static_files %}
     {% if image.path contains 'assets/photos/miscellaneous' %}

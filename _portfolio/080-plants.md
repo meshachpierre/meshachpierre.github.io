@@ -1,5 +1,5 @@
 ---
-title: Plants
+title: Plants (and General Nature)
 image:
  - "/assets/photos/plants/01.jpg"
 ---

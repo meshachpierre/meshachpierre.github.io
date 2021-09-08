@@ -1,8 +1,10 @@
 ---
-title: FSC Certification of Reduced-Impact Logging at Iwokrama
+title: Reduced-Impact Logging at Iwokrama
 image:
  - "/assets/photos/iwokrama_logging/01.jpg"
 ---
+
+Capturing the FSC certification of Iwokrama's reduced-impact logging (RIL), May 2017.
 
 <div class="card-columns">
     {% for image in site.static_files %}

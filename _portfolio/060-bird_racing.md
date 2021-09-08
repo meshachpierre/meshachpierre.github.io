@@ -4,6 +4,8 @@ image:
  - "/assets/photos/bird_racing/01.jpg"
 ---
 
+Shot for the <a href = "https://roadsandkingdoms.com/2017/the-siren-song-of-the-mighty-towa-towa/" target = "_blank">Roads and Kingdom's article on Bird Racing in Georgetown, Guyana and New York, USA</a> (Republished in <a href = "https://explorepartsunknown.com/queens/the-siren-song-of-the-mighty-towa-towa/" target = "_blank">CNN and Anthony Bourdain's Explore Parts Unknown</a>), May 2017.  
+
 <div class="card-columns">
     {% for image in site.static_files %}
     {% if image.path contains 'assets/photos/bird_racing' %}

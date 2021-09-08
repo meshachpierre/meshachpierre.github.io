@@ -60,7 +60,7 @@ defaults:
     scope:
       path: "_portfolio"
     values:
-      show_profile: false
+      show_profile: true
       layout: defaults/portfolio
   -
     scope:
@@ -72,7 +72,7 @@ defaults:
     scope:
       path: "list"
     values:
-      show_profile: false
+      show_profile: true
       layout: defaults/list
 
 

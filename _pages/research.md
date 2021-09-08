@@ -80,7 +80,7 @@ An internal report for this project is available upon request. We are also plann
 
 This collaboration between <a href = "https://panthera.org/" target = "_blank">Panthera</a>-Guyana and <a href = "https://www.wwfguianas.org/" target = "_blank">WWF-Guianas</a> was one of the first activities I undertook as <a href = "https://www.panthera.org/sites/default/files/Panthera_WinstonCobbMemorialFellowship.pdf" target = "_blank">Panthera-Guyana's Winston Cobb Memorial Fellow</a> (2014-2015). We used camera traps and track surveys to document the large-medium mammals of a previously understudied (by Western scientists) forest in the Upper Berbice area. 
 
-The results from this project were published as a chapter in the final report of WWF BAT 3, and in the journal Check List <a href = "#peer-reviewed">(see below)</a>.
+The results from this project were published and are <a href = "#peer-reviewed">available below</a>.
 
 ## Research Outputs
 
