@@ -4,7 +4,7 @@ permalink: research.html
 narrow: true
 title: Research
 ---
-
+<a id="top"></a>
 ## Research Interests
 
 <figure>
@@ -103,4 +103,4 @@ The results from this project were published and are <a href = "#peer-reviewed">
 
 Please see my <a href = "https://github.com/meshachpierre">GitHub</a> for published datasets and code. The dataset and code for the <a href = "https://checklist.pensoft.net/article/55247/">Upper Berbice Check List paper</a> is stored there, but will be transferred to a long-term repository in future. As I publish more of my work, more data and code will become available.
 
-<a href="#header"><i>Return to the top</i></a>
+<a href="#top"><i>Return to the top</i></a>

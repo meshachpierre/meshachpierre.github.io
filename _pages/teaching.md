@@ -4,6 +4,7 @@ permalink: teaching.html
 narrow: true
 title: Teaching
 ---
+<a id="top"></a>
 <figure>
 <img src = "assets/images/teaching/demonstrating.jpg" class = "img-fluid" alt = "Showing students a hawk on Opwall 2014"/>
 <text align = "center"><figcaption><i>Showing students a black-faced hawk (Leucopturnis melanops) on Opwall 2014</i></figcaption></text>
@@ -25,3 +26,5 @@ I also briefly led an R coding club at the University of Guyana in 2019, and tau
 I am quite interested in teaching fundamental ecological, statistical and conservation-related concepts. I am also interested in teaching fundamental social scientific concepts to students from unrelated fields (Biology, Ecology, and so forth), as well as the human-dimensions of human-wildlife interactions and conservation science. 
 
 I am interested in teaching field data collection methods, both for studying bird and mammal populations, and for quantitative social science research. In addition, I would like to one day teach quantitative methods relevant for both ecology and the social sciences.
+
+<a href="#top"><i>Return to the top</i></a>

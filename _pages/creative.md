@@ -4,6 +4,7 @@ permalink: creative.html
 narrow: true
 title: Creative Work
 ---
+<a id="top"></a>
 <figure>
 <img src = "assets/images/creative/me_river.jpg" class = "img-fluid" alt = "Me with my camera on the Essequibo river">
 <figcaption><i>Me with my camera on the Essequibo river</i></figcaption>
@@ -74,3 +75,5 @@ I maintain a blog, <a href = "http://guianensis.wordpress.com/">Guianensis</a>, 
 
 - <a href = "">Guide to the Birds of Iwokrama.</a> Iwokrama International Centre for Rainforest Conservation and Development: 2018. Georgetown, Guyana.
    - This is a short guide to the birds of the Iwokrama forest intended for guests with limited birding experience.
+
+<a href="#top"><i>Return to the top</i></a>

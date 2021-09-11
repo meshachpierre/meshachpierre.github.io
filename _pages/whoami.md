@@ -4,6 +4,7 @@ permalink: whoami.html
 narrow: True
 title: Who Am I?
 ---
+<a id="top"></a>
 ## Overview
 
 <figure>
@@ -75,4 +76,4 @@ As I write this, I am in the data entry and analysis phase of my Master's resear
 
 What happens after? That's anyone's guess. I have thoughts but nothing concrete. Regardless of wherever I end up, and what I end up doing, I aim to continue doing applied research in Guyana and using my findings to advocate for policy recommendations and changes. This is an ideal scenario, and I am open to what the world brings my way, but at some point I'd like to continue doing research in Guyana and the wider Caribbean.
 
-<a href="#header"><i>Return to the top</i></a>
+<a href="#top"><i>Return to the top</i></a>

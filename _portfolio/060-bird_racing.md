@@ -1,5 +1,5 @@
 ---
-title: Bird Racing
+title: Bird racing in Georgetown, Guyana
 image:
  - "/assets/photos/bird_racing/01.jpg"
 ---
