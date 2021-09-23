@@ -5,7 +5,7 @@ narrow: true
 title: Home
 ---
 <a id="top"></a>
-## Conservation biologist, conservation criminologist, photographer, and writer
+## Interdisciplinary conservation biologist and criminologist, photographer and writer
 
 {% include components/intro.md %}
 

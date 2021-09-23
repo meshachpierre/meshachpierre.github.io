@@ -10,7 +10,7 @@ More about me:
 - **Advisors**: [Dr. Jessica S. Kahler](https://soccrim.clas.ufl.edu/jessica-kahler/) and [Dr. Matthew T. Hallett](https://uftcd.org/people/core-faculty-staff/matthew-t-hallett/)
 - **Interests**: Conservation criminology, Human dimensions of wildlife conservation, Indigenous natural resources management, Ecology and conservation of birds and mammals,	Scientific communication and outreach, Environmental sociology,	Sustainable development
 - **Programming languages**: R (proficient), Python (basic), Stata (basic)
-- **Software**: R, QGIS, EstimateS, BaseCamp, Lightroom, Photoshop, Premiere Pro
+- **Software**: R, QGIS, Stata, EstimateS, Distance, Presence, Vortex, Garmin BaseCamp, Adobe Lightroom, Adobe Photoshop, Adobe Premiere Pro
 
 Contact information:
 - **US Address**: 408 NW 4th St, Gainesville, FL, USA, 32601
