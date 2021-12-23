@@ -84,7 +84,14 @@ The results from this project were published and are <a href = "#peer-reviewed">
 
 ## Research Outputs
 
-###### Peer-reviewed
+### Peer-reviewed
+
+######In Review
+
+- **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (Accepted: Major Revisions). Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana. In Review: Conservation Science and Practice.
+- Harris A.E., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (Accepted: Minor Revisions). The influence of diet overlap and nest-site aggression on conflict between black caiman (Melanosuchus niger) and fishermen of the North Rupununi, Guyana. In Review: Human Dimensions of Wildlife.
+
+######Published
 
 - Fisher J.C., Mistry J., **Pierre M.A.**, Yang H., Harris A., Hunte N., Fernandes D., Bicknell J.E., Davies Z.G. (2021). <a href = "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12406">Using participatory video to share people’s experiences of neotropical urban green and blue spaces with decision-makers</a>. *The Geographical Journal* **00**:1-15.
 - **Pierre M.A.**, Ignacio L., Paeamelaere E.A.D.P. (2020). <a href = "https://checklist.pensoft.net/article/55247/">Medium- and large-bodied terrestrial mammals of the Upper Berbice region of Guyana</a>. *Check List* **16(5)**: 1229-1237.
@@ -92,7 +99,7 @@ The results from this project were published and are <a href = "#peer-reviewed">
 - Hayes W., Fisher J., **Pierre M.A.**, Bicknell J.E., Davies Z.G. 2019. <a href = "https://onlinelibrary.wiley.com/doi/pdf/10.1111/btp.12729">Bird communities across varying landcover types in a Neotropical City</a>. *Biotropica* **00**:1-14.
 - Milensky C. M., Robbins M. B., [and 5 others, including **Pierre M.**] 2016. <a href = "https://www.academia.edu/29183954/Notes_on_breeding_birds_from_the_Guyana_highlands_with_new_records_from_a_recent_inventory_of_Mount_Ayanganna">Notes on Breeding Birds from the Guyana Highlands with New Records from a Recent Inventory of Mount Ayanganna</a>. *Cotinga* **38**: 64–78.
 
-###### Grey and popular literature
+### Grey and popular literature
 
 - **Pierre M.**, O’Shea B. 2018. <a href = "">The trade in seed-finches from the Guianas: Can a diaspora fuel an international trade?</a>. **Trading Ideas**. *Oxford Martin School*, University of Oxford. Oxford, UK.
 - **Pierre M.**, Ignacio L., Torres D., Torres E., and Paemelaere E.A.D. 2018. <a href = "https://www.researchgate.net/publication/340681593_Large_and_Medium_Mammals_of_the_Upper_Berbice_region_Guyana">Large and medium mammals of the upper Berbice region, Guyana</a>. *In* Alonso L.E., Persaud J., and Williams A. (Eds.). <a href = "https://wwflac.awsassets.panda.org/downloads/biodiversity_assessment_survey_of_the_upper_berbice_region_2018.pdf">Biodiversity Assessment Survey of the Upper Berbice Region, Guyana</a>, pp. 100-113. *WWF-Guianas*, Georgetown, Guyana.
