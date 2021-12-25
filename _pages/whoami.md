@@ -67,7 +67,7 @@ My mental health is an integral part of who I am. I am open publicly about the c
 
 ## The future
 
-As I write this, I am in the data entry and analysis phase of my Master's research. I aim to graduate by Spring 2023. After then, I plan to proceed into an interdisciplinary PhD, where I aim to continue studying human-wildlife co-existence using a socio-ecological approach, building on my previous work and drawing from my background in ecology and my current study in Criminology and the human dimensions of wildlife conservation.
+As I write this, I am in the data entry and analysis phase of my Master's research. I aim to graduate by Spring 2023. After then, I plan to proceed into an interdisciplinary PhD, where I aim to continue studying human-wildlife co-existence using a socio-ecological approach, building on my previous work and drawing from my background in ecology and my current study in Criminology and the human dimensions of wildlife conservation and management.
 <figure>
 <img src="assets/images/whoami/future.jpg" class = "img-fluid" alt = "Morning at Nappi village"/>
 <text align = "center"><figcaption><i>MA Criminology fieldwork</i></figcaption></text>

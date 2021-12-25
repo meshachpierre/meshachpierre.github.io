@@ -43,7 +43,7 @@ This project is part of the <a href = "https://www.swm-programme.info/country-gu
 <img src="assets/images/research/landuse.jpg" class = "img-fluid" alt = "A chainsaw sits at the base of a tree"/>
 </figure>
 
-I am part of a collaborative project that aims to understand the impacts of extractive land use activities (logging, mining, and hunting) on populations of large and medium-bodied mammals and ground birds in Guyana. We are still in the early phases of this project. Please do get in touch if you would like to take part. We are open to additional data from Guyana, and/or technical assistance in the analyses we conduct.
+I am part of a collaborative project that aims to understand the impacts of extractive land use activities (logging, mining, and hunting) on populations of large and medium-bodied mammals and ground birds in Guyana. We are still in the early phases of this project. Please do get in touch if you would like to take part. We are open to additional data from Guyana, and/or technical assistance in the analyses we plan to conduct.
 
 ## Past research
 
