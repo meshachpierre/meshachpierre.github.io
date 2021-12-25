@@ -9,12 +9,14 @@ title: Research
 
 <figure>
 <img src="assets/images/research/wwf_bat3_lcondo.jpg" class = "img-fluid" alt = "Me setting a camera trap (Photo: © Liz Condo)"/>
-<text align = "center"><figcaption><i>Me setting a camera trap (Photo: © <a href = "https://www.lizcondo.com/index/G0000hZVx_wtPb50/thumbs" target="_blank">Liz Condo</a>)</i></figcaption></text>
+<text align = "center"><figcaption><i>(Photo: © <a href = "https://www.lizcondo.com/" target="_blank">Liz Condo</a>)</i></figcaption></text>
 </figure>
 
 I am interested in the conservation of wildlife in the Guiana Shield and Caribbean. Broadly, I have the following research interests: bird and large mammal ecology and conservation; and the human dimensions of human-wildlife interactions, including and human-wildlife coexistence and conflict.
 
 I am most interested in applied research that aims not only to further scientific understanding, but to influence management and policy to benefit both wildlife and the people who live alongside them. This may range from understanding the effects of land use on wildlife populations, and/or the coexistence of Indigenous communities with wildlife.
+
+My research is inspired by the work of my academic advisors, Dr. Jessica Kahler and Dr. Matthew Hallett, as well as mentors and colleagues, Prof. Jay Mistry and Dr. Andrea Berardi. Their research, and mine, heavily focuses on principles of respect and social justice, especially when working with historically marginalized groups, in this case, Indigenous and local peoples in the Rupununi, Guyana. We aim to not only fairly compensate and train Indigenous peoples to work alongside with us, and include them, community leaders, regional management groups, and community members more broadly, in the research process. This way, we hope to not make the same mistakes that conservationists and other researchers have made in the past. Rather than coming in with solutions, we aim to provide information to community members and leaders for their own decision-making, focusing on their own self-efficacy to manage their resources as they have for thousands of years. This is evident in the continued persistence and health of Guyana's interior landscapes. 
 
 As I journey further into the human-dimensions of conservation, I hope to apply mixed-methodological approaches. I also aim to conduct socio-ecological research that combines social and ecological datasets to inform conservation decisions. 
 
@@ -24,7 +26,6 @@ As I journey further into the human-dimensions of conservation, I hope to apply 
 
 <figure>
 <img src="assets/images/research/ma_cows.jpg" class = "img-fluid" alt = "Cows walking into a village at dusk"/>
-<text align = "center"><figcaption><i>Cows walking into a village at dusk</i></figcaption></text>
 </figure>
 
 **Committee chair/advisor**: <a href = "https://soccrim.clas.ufl.edu/jessica-kahler/" target = "_blank">Dr. Jessica Kahler</a>
@@ -40,10 +41,9 @@ This project is part of the <a href = "https://www.swm-programme.info/country-gu
 
 <figure>
 <img src="assets/images/research/landuse.jpg" class = "img-fluid" alt = "A chainsaw sits at the base of a tree"/>
-<text align = "center"><figcaption><i>A chainsaw sits at the base of a tree</i></figcaption></text>
 </figure>
 
-I am part of a collaborative project that aims to understand the impacts of extractive land use activities (logging, mining, and hunting) on populations of large and medium-bodied mammals and ground birds in Guyana. We are still in the early phases of this project. Please do get in touch if you would like to take part.
+I am part of a collaborative project that aims to understand the impacts of extractive land use activities (logging, mining, and hunting) on populations of large and medium-bodied mammals and ground birds in Guyana. We are still in the early phases of this project. Please do get in touch if you would like to take part. We are open to additional data from Guyana, and/or technical assistance in the analyses we conduct.
 
 ## Past research
 
@@ -51,7 +51,6 @@ I am part of a collaborative project that aims to understand the impacts of extr
 
 <figure>
 <img src="assets/images/research/bc_conflict.jpg" class = "img-fluid" alt = "Caiman house rangers watch a released black caiman"/>
-<text align = "center"><figcaption><i>Caiman house rangers watch a released black caiman</i></figcaption></text>
 </figure>
 
 This project (in collaboration with <a href = "https://rupununiwildlife.org/">Dr. Matthew Hallett</a> and <a href = "http://caimanhouse.com/">Caiman House</a>) was the first study of human-black caiman conflict in the Rupununi region of Guyana. We collected survey data on fishing behaviour, attitudes towards and interactions with black caiman (<i>Melanosuchus niger</i>), the largest aquatic predator in South America.
@@ -64,7 +63,6 @@ We are currently in the process of publishing our results in a peer-reviewed jou
 
 <figure>
 <img src="assets/images/research/cobb.jpg" class = "img-fluid" alt = "Logging in the Siparuni"/>
-<text align = "center"><figcaption><i>Logging in the Siparuni</i></figcaption></text>
 </figure>
 
 This project formed part of my <a href = "https://www.panthera.org/sites/default/files/Panthera_WinstonCobbMemorialFellowship.pdf" target = "_blank">Panthera Winston Cobb Memorial Fellowship</a> (2014-2015) research. We studied the large-medium bodied mammals of the Siparuni logging concession operated by Demerara Timbers Ltd. (DTL). This concession featured logging, hunting, and mining.
@@ -75,7 +73,7 @@ An internal report for this project is available upon request. We are also plann
 
 <figure>
 <img src="assets/images/research/wwf_bat3_lcondo_2.jpg" class = "img-fluid" alt = "Leroy Ignacio and I configuring a GPS unit"/>
-<text align = "center"><figcaption><i>Leroy Ignacio and I configuring a GPS unit (Photo: © <a href = "https://www.lizcondo.com/index/G0000hZVx_wtPb50/thumbs" target="_blank">Liz Condo)</a></i></figcaption></text>
+<text align = "center"><figcaption><i>(Photo: © <a href = "https://www.lizcondo.com/index/G0000hZVx_wtPb50/thumbs" target="_blank">Liz Condo)</a></i></figcaption></text>
 </figure>
 
 This collaboration between <a href = "https://panthera.org/" target = "_blank">Panthera</a>-Guyana and <a href = "https://www.wwfguianas.org/" target = "_blank">WWF-Guianas</a> was one of the first activities I undertook as <a href = "https://www.panthera.org/sites/default/files/Panthera_WinstonCobbMemorialFellowship.pdf" target = "_blank">Panthera-Guyana's Winston Cobb Memorial Fellow</a> (2014-2015). We used camera traps and track surveys to document the large-medium mammals of a previously understudied (by Western scientists) forest in the Upper Berbice area. 
@@ -86,12 +84,12 @@ The results from this project were published and are <a href = "#peer-reviewed">
 
 ### Peer-reviewed
 
-######In Review
+*In Review*
 
-- **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (Accepted: Major Revisions). Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana. In Review: Conservation Science and Practice.
-- Harris A.E., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (Accepted: Minor Revisions). The influence of diet overlap and nest-site aggression on conflict between black caiman (Melanosuchus niger) and fishermen of the North Rupununi, Guyana. In Review: Human Dimensions of Wildlife.
+- **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (Accepted: Major Revisions). Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana. *In Review: Conservation Science and Practice.*
+- Harris A.E., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (Accepted: Minor Revisions). The influence of diet overlap and nest-site aggression on conflict between black caiman (Melanosuchus niger) and fishermen of the North Rupununi, Guyana. *In Review: Human Dimensions of Wildlife.*
 
-######Published
+*Published*
 
 - Fisher J.C., Mistry J., **Pierre M.A.**, Yang H., Harris A., Hunte N., Fernandes D., Bicknell J.E., Davies Z.G. (2021). <a href = "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12406">Using participatory video to share people’s experiences of neotropical urban green and blue spaces with decision-makers</a>. *The Geographical Journal* **00**:1-15.
 - **Pierre M.A.**, Ignacio L., Paeamelaere E.A.D.P. (2020). <a href = "https://checklist.pensoft.net/article/55247/">Medium- and large-bodied terrestrial mammals of the Upper Berbice region of Guyana</a>. *Check List* **16(5)**: 1229-1237.
@@ -101,7 +99,8 @@ The results from this project were published and are <a href = "#peer-reviewed">
 
 ### Grey and popular literature
 
-- **Pierre M.**, O’Shea B. 2018. <a href = "">The trade in seed-finches from the Guianas: Can a diaspora fuel an international trade?</a>. **Trading Ideas**. *Oxford Martin School*, University of Oxford. Oxford, UK.
+- **Pierre M.**, and O’Shea B.J. 2019. Bird racing: Culture and conservation. *North Carolina Naturalist* **27(1)**: 2-3
+- **Pierre M.**, O’Shea B.J. 2018. <a href = "">The trade in seed-finches from the Guianas: Can a diaspora fuel an international trade?</a>. **Trading Ideas**. *Oxford Martin School*, University of Oxford. Oxford, UK.
 - **Pierre M.**, Ignacio L., Torres D., Torres E., and Paemelaere E.A.D. 2018. <a href = "https://www.researchgate.net/publication/340681593_Large_and_Medium_Mammals_of_the_Upper_Berbice_region_Guyana">Large and medium mammals of the upper Berbice region, Guyana</a>. *In* Alonso L.E., Persaud J., and Williams A. (Eds.). <a href = "https://wwflac.awsassets.panda.org/downloads/biodiversity_assessment_survey_of_the_upper_berbice_region_2018.pdf">Biodiversity Assessment Survey of the Upper Berbice Region, Guyana</a>, pp. 100-113. *WWF-Guianas*, Georgetown, Guyana.
 - **Pierre M.**, Paemelaere E.A.D.P. 2017. Wildlife Management Assessment Region 9: Upper Takatu–Upper Essequibo, Guyana. *Conservation International–Guyana*. Georgetown, Guyana. [Internal report]
 - Snyder A., and **Pierre M.**, Gomes E., Noonan B. 2016. <a href = "https://www.researchgate.net/publication/319987268_Amphibians_and_Reptiles_of_Kusad_Mountain_and_the_Parabara_Region_in_the_South_Rupununi_Guyana">Amphibians and Reptiles of Kusad Mountain and the Parabara Region in the South Rupununi, Guyana</a>. *In* Alonso L.E., Persaud J., and Williams A. (Eds.). <a href = "https://wwflac.awsassets.panda.org/downloads/wwf_bat_sr_low_res_1.pdf">Biodiversity Assessment Survey of the South Rupununi Savannah, Guyana. BAT Survey Report No. 1</a>. *WWF–Guianas*, Georgetown, Guyana.
