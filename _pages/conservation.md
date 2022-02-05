@@ -114,11 +114,9 @@ Indigenous rights and mutual respect
 <img src = "assets/images/conservation/rupununi_above.jpg" class = "img-fluid" alt = "Rupununi from above">
 </figure>
 
-Engagement
-Knowledge sharing and transfer
-Co-learning
-*Critical conservation*
-etc.
-
+<br>Engagement
+<br>Knowledge sharing and transfer
+<br>Co-learning
+<br>*Critical conservation*
 
 <a href="#top"><i>Return to the top</i></a>
