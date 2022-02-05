@@ -59,6 +59,8 @@ This project served as the final project for my <a href = "https://www.wildcru.o
 
 We are currently in the process of publishing our results in a peer-reviewed journal. Once they are accepted, they will be disseminated broadly.
 
+**UPDATE:** [20220205] The first of our publications has been accepted and is currently *In Press* in *Human Dimensions of Wildlife*. The second of our publications has been accepted and is currently *In Review* in *Conservation Science & Practice*.
+
 ##### Jaguar populations in a mixed-land use landscape (2014-2015)
 
 <figure>
@@ -87,7 +89,10 @@ The results from this project were published and are <a href = "#peer-reviewed">
 *In Review*
 
 - **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (Accepted: Major Revisions). Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana. *In Review: Conservation Science and Practice.*
-- Harris A.E., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (Accepted: Minor Revisions). The influence of diet overlap and nest-site aggression on conflict between black caiman (Melanosuchus niger) and fishermen of the North Rupununi, Guyana. *In Review: Human Dimensions of Wildlife.*
+
+*In Press*
+
+- Harris A.E.M., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (2023). The influence of diet overlap and nest-site aggression on human-black caiman conflict in Guyana. *Human Dimensions of Wildlife.* **28(4)**
 
 *Published*
 
