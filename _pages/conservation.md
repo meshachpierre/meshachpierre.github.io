@@ -47,7 +47,7 @@ By training and enabling research teams and informing community leadership, we a
 This research, capacity development, and community engagement would not be possible or successful without the overarching principles of Indigenous rights and mutual respect.
 
 <figure>
-<img src = "assets/images/conservation/hjag_nap_team_02.jpg" class = "img-fluid" alt = "Human-jaguar conflict research team at Karasabai village">
+<img src = "assets/images/conservation/hjag_nap_team_discussion.jpg" class = "img-fluid" alt = "Human-jaguar conflict research team at Karasabai village">
 </figure>
 
 ## Policy
@@ -56,13 +56,7 @@ This research, capacity development, and community engagement would not be possi
 <img src = "assets/images/conservation/georgetown_coast_flags_boats.jpg" class = "img-fluid" alt = "Boats at Hope Beach, Guyana">
 </figure>
 
-Similarly, much of my research addressing policy and management needs of governmental stakeholders, such as the Government of Guyana's Protected Areas Commission, Guyana Forestry Commission, and 
-
-<figure>
-<img src = "assets/images/conservation/georgetown_mariott_lighthouse.jpg" class = "img-fluid" alt = "The Georgetown Lighthouse with the Mariott in the foreground">
-</figure>
-
-As my research, on the ground, is only possible through past and current partnerships with a multitude of stakeholders, my policy engagement and advocacy builds on my 9+ years of experience working with and for various governmental bodies.
+Similarly, much of my research addressing policy and management needs of governmental stakeholders, such as the Government of Guyana's Protected Areas Commission, Environmental Protection Agency, and Guyana Forestry Commission. As my research, on the ground, is only possible through past and current partnerships with a multitude of stakeholders, my policy engagement and advocacy builds on my 9+ years of experience working with and for various governmental bodies.
 
 <figure>
 <img src = "assets/images/conservation/hjag_kba_fieldnotes.jpg" class = "img-fluid" alt = "My field notes">
