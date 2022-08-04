@@ -5,7 +5,8 @@ narrow: true
 title: Home
 ---
 <a id="top"></a>
-## Interdisciplinary conservation biologist and criminologist, photographer and writer
+## Interdisciplinary socio-ecological conservation scientist and practitioner ##
+### Photographer, writer, musician
 
 {% include components/intro.md %}
 
