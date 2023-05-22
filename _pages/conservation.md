@@ -14,14 +14,6 @@ title: Applied Conservation
 My conservation work and research focuses on the principles of fairness, justice, and respect. I seek to not make the same mistakes of past conservationists and impose external solutions, but rather to 
 engage and empower local peoples and communities to manage and conserve their resources, as they have often done for thousands of years.
 
-# South Rupununi Conservation Society (SRCS)
-
-<figure>
-<img src = "assets/images/conservation/srcs_working_together.jpg" class = "img-fluid" alt = "Roaming around with the SRCS in 2016-2017">
-</figure>
-
-I currently serve as the <i> Scientific and Research Development Consultant </i> for the <a href = "https://www.srcs-gy.com/" target="_blank">South Rupununi Conservation Society (SRCS)</a>. In this capacity, I work on building the SRCS (and therefore, the South Rupununi (<i>and wider</i>))'s scientific capacity through training SRCS team members and others in research methodology. I also serve as support in a variety of ways for past, ongong, and future SRCS conservation efforts. More details on my work with the SRCS are available below.
-
 # Informed Decision-making and Planning
 
 ## Communities

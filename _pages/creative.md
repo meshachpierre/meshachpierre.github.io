@@ -37,14 +37,8 @@ I maintain a blog, <a href = "http://guianensis.wordpress.com/">Guianensis</a>, 
 
 ### <a href = "http://guianensis.wordpress.com/">Guianensis</a> highlights
 
-- <a href = "https://guianensis.wordpress.com/2022/07/28/work-in-progress-life-at-the-meeting-point-of-physical-and-mental-wellness-disability-and-advocacy-myself-at-almost-30/">(*Work In Progress*) Life at the meeting point of physical and mental wellness, disability, and advocacy: myself at almost-30</a> 28th, July, 2022
-    - A reflective piece on lessons learned from events across space and time, and why compassion and mutual respect are important, despite disagreement
-
 - <a href = "https://guianensis.wordpress.com/2022/01/24/winds-of-change-or-balance-nuance-context-or-why-i-study-people-now/">Winds of Change (or “Balance, Nuance, & Context” or “Why I Study People Now”).</a> 24th, January, 2022
     - Indigenous knowledge, cultural change, and the need to address elephants in the room in conservation.
-
-- <a href = "https://guianensis.wordpress.com/2021/06/16/on-labels-being-defined-and-not-being-defined-by-them/">On Labels: Being defined and not being defined by them.</a> 16th June, 2021.
-    - What my diagnoses mean to me and how I navigate thinking about myself with them.
 
 - <a href = "https://guianensis.wordpress.com/2021/06/02/mental-health-the-pandemic-and-guyana-reflections-from-the-open-space-conversation-may-2021/">Mental health, the pandemic and Guyana: Reflections from the open space conversation (May 2021).</a> 2nd June, 2021
     - In May 2021, a friend and I hosted an open space for talking about mental health, wellbeing, and the COVID-19 pandemic. It was well attended, and went on for 2 hrs - an hour longer than planned.
@@ -87,19 +81,3 @@ I have also produced various short films, including a short series of videos abo
 
 **Monitoring with Micah Davis-Head ranger at Iwokrama**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_U2tfbmOEU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### Music
-
-I am an avid self-taught musician. At the moment, I am currently compiling and arranging a number of songs that I have written over the years. Although not yet "finished," some of these songs are available on my YouTube channel, albeit not publicly. Please see below for an example of my music.
-
-- Corn Maze (Demo)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dO4CCE3in-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Pacifist's War (Demo)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UXyF8_VQycY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Nothing (Demo)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8uZpjzXsnp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

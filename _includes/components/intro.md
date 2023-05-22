@@ -1,6 +1,6 @@
 Thank you for visiting my corner of the internet. I am Meshach Pierre, a conservation scientist and practitioner from Guyana, South America. I study human-wildlife coexistence and conflict in the Rupununi savannas of southern Guyana, the country of my birth.
 
-In addition to academic research and teaching, I am an avid photographer and have had images published in CNN's Roads and Kingdoms, The North Carolina Naturalist, and in local (Guyanese) photography exhibitions. I have also produced a few short documentary-styled videos and have published a newspaper article as well as a blog.
+In addition to academic research and teaching, I am an avid photographer and have had images published in CNN's Roads and Kingdoms, The North Carolina Naturalist, and in local (Guyanese) photography exhibitions. I have also produced a few short documentary-styled videos and have published newspaper articles as well as my blog, Guianensis.
 
 More about me:
 
@@ -10,12 +10,9 @@ More about me:
 - **Current Advisors**: [Dr. Jessica S. Kahler](https://soccrim.clas.ufl.edu/jessica-kahler/) and [Dr. Matthew T. Hallett](https://uftcd.org/people/core-faculty-staff/matthew-t-hallett/)
 - **Interests**: Conservation criminology, Human dimensions of wildlife conservation, Indigenous natural resources management, Ecology and conservation of birds and mammals,	Scientific communication and outreach, Environmental sociology,	Sustainable development
 - **Programming languages**: R (proficient), Python (basic), Stata (basic)
-- **Software**: R, QGIS, Stata, EstimateS, Distance, Presence, Vortex, Garmin BaseCamp, Adobe Lightroom, Adobe Photoshop, Adobe Premiere Pro
+- **Software**: R, QGIS, Stata, EstimateS, Distance, Presence, Vortex, Garmin BaseCamp, Adobe Lightroom, Adobe Photoshop, Adobe Premiere Pro, Adobe InDesign
 
 Contact information:
-- **Permanent Guyanese Address**: 60 Atlantic Ville, Georgetown, Guyana, South America
-- **US Address**: 408 NW 4th St, Gainesville, FL, USA, 32601
 - **Email(s)**: [meshachpierre@gmail.com](mailto:meshachpierre@gmail.com) / [mpierre2@ufl.edu](mailto:mpierre2@ufl.edu)
-- **Phone(s)**: +5926414308 (WhatsApp) / +13523282116
 
-To learn more about me, please feel free to use the panel above to navigate my website.
+- To learn more about me, please feel free to use the panel above to navigate my website.

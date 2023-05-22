@@ -6,7 +6,7 @@ title: Home
 ---
 <a id="top"></a>
 ## Interdisciplinary socio-ecological conservation scientist and practitioner ##
-### Photographer, writer, musician
+### Photographer and writer
 
 {% include components/intro.md %}
 
