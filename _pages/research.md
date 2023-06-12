@@ -16,8 +16,6 @@ I am interested in the conservation of wildlife in the Guiana Shield and Caribbe
 
 I am most interested in applied research that aims not only to further scientific understanding, but to influence management and policy to benefit both wildlife and the people who live alongside them. This may range from understanding the effects of land use on wildlife populations, and/or the coexistence of Indigenous communities with wildlife.
 
-My research is inspired by the work of my academic advisors, Dr. Jessica Kahler and Dr. Matthew Hallett, as well as mentors and colleagues, Prof. Jay Mistry and Dr. Andrea Berardi. Their research, and mine, heavily focuses on principles of respect and social justice, especially when working with historically marginalized groups, in this case, Indigenous and local peoples in the Rupununi, Guyana. We aim to not only fairly compensate and train Indigenous peoples to work alongside with us, and include them, community leaders, regional management groups, and community members more broadly, in the research process. This way, we hope to not make the same mistakes that conservationists and other researchers have made in the past. Rather than coming in with solutions, we aim to provide information to community members and leaders for their own decision-making, focusing on their own self-efficacy to manage their resources as they have for thousands of years. This is evident in the continued persistence and health of Guyana's interior landscapes. 
-
 As I journey further into the human-dimensions of conservation, I hope to apply mixed-methodological approaches. I also aim to conduct socio-ecological research that combines social and ecological datasets to inform conservation decisions. 
 
 ## Current Research
@@ -86,16 +84,10 @@ The results from this project were published and are <a href = "#peer-reviewed">
 
 ### Peer-reviewed
 
-*In Review*
-
-- **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (Accepted: Major Revisions). Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana. *In Review: Conservation Science and Practice.*
-
-*In Press*
-
-- Harris A.E.M., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (2023). The influence of diet overlap and nest-site aggression on human-black caiman conflict in Guyana. *Human Dimensions of Wildlife.* **28(4)**
-
 *Published*
 
+- **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (2023).<a href = "https://doi.org/10.1111/csp2.12848"> Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana</a>. *Conservation Science and Practice,* **5(1)**, e12848 .
+- Harris A.E.M., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (2023). <a href = "https://doi.org/10.1080/10871209.2022.2043491"> The influence of diet overlap and nest-site aggression on human-black caiman conflict in Guyana</a>. *Human Dimensions of Wildlife.* **28(4)**
 - Fisher J.C., Mistry J., **Pierre M.A.**, Yang H., Harris A., Hunte N., Fernandes D., Bicknell J.E., Davies Z.G. (2021). <a href = "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12406">Using participatory video to share people’s experiences of neotropical urban green and blue spaces with decision-makers</a>. *The Geographical Journal* **00**:1-15.
 - **Pierre M.A.**, Ignacio L., Paeamelaere E.A.D.P. (2020). <a href = "https://checklist.pensoft.net/article/55247/">Medium- and large-bodied terrestrial mammals of the Upper Berbice region of Guyana</a>. *Check List* **16(5)**: 1229-1237.
 - Johnson P., Adams V. M., [and 29 others, including **Pierre M.**] 2019. <a href = "https://www.mdpi.com/2076-2615/9/12/1115/htm">Consequences Matter: Compassion in Conservation Means Caring for Individuals, Populations and Species</a>. *Animals* **9(12)**: 1115.

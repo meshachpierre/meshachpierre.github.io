@@ -96,21 +96,10 @@ Through partnership with local non-governmental organizations, I have been invol
 <text align = "center"><figcaption><i>SRCS Hoary-throated Spinteail Poster (Design & text by MPierre)</i></figcaption></text>
 </figure>
 <figure>
-<img src = "assets/images/conservation/mpierre_srsc_2017_poster_btachuri.jpg" class = "img-fluid" alt = "SRCS Bearded Tachuri Poster (Design & text by MPierre)">
-<text align = "center"><figcaption><i>SRCS Bearded Tachuri Poster (Design & text by MPierre)</i></figcaption></text>
-</figure>
-<figure>
-<img src = "assets/images/conservation/mpierre_srsc_2017_poster_harpyeagle.jpg" class = "img-fluid" alt = "SRCS Sun Parakeet Poster (Design & text by MPierre)">
-<text align = "center"><figcaption><i>SRCS Harpy Eagle Poster (Design & text by MPierre)</i></figcaption></text>
-</figure>
-<figure>
 <img src = "assets/images/conservation/mpierre_srsc_2017_poster_sunparakeet.jpg" class = "img-fluid" alt = "SRCS Sun Parakeet Poster (Design & text by MPierre)">
 <text align = "center"><figcaption><i>SRCS Sun Parakeet Poster (Design & text by MPierre)</i>i</figcaption></text>
 </figure>
 <figure>
-<img src = "assets/images/conservation/mpierre_srsc_2017_poster_tocotoucan.jpg" class = "img-fluid" alt = "SRCS Sun Parakeet Poster (Design & text by MPierre)">
-<text align = "center"><figcaption><i>SRCS Toco toucan Poster (Design & text by MPierre)</i></figcaption></text>
-</figure>
 
 <br>Books
 <figure>
