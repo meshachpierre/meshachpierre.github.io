@@ -55,9 +55,7 @@ This project (in collaboration with <a href = "https://rupununiwildlife.org/">Dr
 
 This project served as the final project for my <a href = "https://www.wildcru.org/courses/diploma/" target = "_blank">Postgraduate Diploma in International Wildlife Conservation Practice</a> at the <a href = "https://wildcru.org" target = "_blank">Wildlife Conservation Research Unit (WildCRU)</a>, <a href = "https://ox.ac.uk" target = "_blank">University of Oxford</a>. I was supervised by <a href = "https://www.zoo.ox.ac.uk/people/dr-claudio-sillero#/">Prof. Claudio Sillero-Zubiri</a> and <a href = "https://scholar.google.com/citations?user=EVJ010MAAAAJ&hl=fil">Dr. Kim Jacobsen</a>.
 
-We are currently in the process of publishing our results in a peer-reviewed journal. Once they are accepted, they will be disseminated broadly.
-
-**UPDATE:** [20220205] The first of our publications has been accepted and is currently *In Press* in *Human Dimensions of Wildlife*. The second of our publications has been accepted and is currently *In Review* in *Conservation Science & Practice*.
+The first of our publications has been published in *Human Dimensions of Wildlife*. The second of our publications has been published in *Conservation Science & Practice*.
 
 ##### Jaguar populations in a mixed-land use landscape (2014-2015)
 
@@ -86,6 +84,8 @@ The results from this project were published and are <a href = "#peer-reviewed">
 
 *Published*
 
+- Hayes W. M., O'Shea, B. J., **Pierre M.A.**, Wilson A., Bicknell J.E. (2023) Bird communities across different levels of human settlement: a comparative analysis from two northern Amazonian ecoregions. *Science of the Total Environment*. [Decision: Accepted]
+- Sillero-Zubiri C., Ardiantiono, Caruso F., Eshete G., Sanjeewani N., **Pierre M.A**. (2023).<a href = "https://doi.org/10.1017/S0030605323000698"> From conflict to coexistence: Riding the challenges arising from an ever-expanding human-wildlife interface</a>. *Oryx*, **57(4)**, 409-410.
 - **Pierre M.A.**, Jacobsen K.S., Hallett M.T., Harris A.E.M., Melville A., Barnabas H., Sillero-Zubiri C. (2023).<a href = "https://doi.org/10.1111/csp2.12848"> Drivers of human-black caiman (Melanosuchus niger) conflict in Indigenous communities in the North Rupununi wetlands, SW Guyana</a>. *Conservation Science and Practice,* **5(1)**, e12848 .
 - Harris A.E.M., Maharaj G., Hallett M.T., **Pierre M.A.**, Chesney C., Melville A. (2023). <a href = "https://doi.org/10.1080/10871209.2022.2043491"> The influence of diet overlap and nest-site aggression on human-black caiman conflict in Guyana</a>. *Human Dimensions of Wildlife.* **28(4)**
 - Fisher J.C., Mistry J., **Pierre M.A.**, Yang H., Harris A., Hunte N., Fernandes D., Bicknell J.E., Davies Z.G. (2021). <a href = "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/geoj.12406">Using participatory video to share people’s experiences of neotropical urban green and blue spaces with decision-makers</a>. *The Geographical Journal* **00**:1-15.
