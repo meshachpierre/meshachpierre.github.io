@@ -12,13 +12,13 @@ title: Research
 <text align = "center"><figcaption><i>(Photo: © <a href = "https://www.lizcondo.com/" target="_blank">Liz Condo</a>)</i></figcaption></text>
 </figure>
 
-I am interested in the conservation of wildlife in the Guiana Shield and Caribbean. Broadly, I have the following research interests: bird and large mammal ecology and conservation; and the human dimensions of human-wildlife interactions, including and human-wildlife coexistence and conflict.
+I am interested in the conservation of wildlife in the Guiana Shield and Caribbean. Broadly, I have the following research interests: bird and large mammal ecology and conservation; and the human dimensions of human-wildlife interactions, including and human-wildlife coexistence and conflict, and managing the wildife trade.
 
 I am most interested in applied research that aims not only to further scientific understanding, but to influence management and policy to benefit both wildlife and the people who live alongside them. This may range from understanding the effects of land use on wildlife populations, and/or the coexistence of Indigenous communities with wildlife.
 
 As I journey further into the human-dimensions of conservation, I hope to apply mixed-methodological approaches. I also aim to conduct socio-ecological research that combines social and ecological datasets to inform conservation decisions. 
 
-## Current Research
+## Past Research
 
 ##### Master's research (MA Criminology, Law, and Society)
 
@@ -29,19 +29,11 @@ As I journey further into the human-dimensions of conservation, I hope to apply 
 **Committee chair/advisor**: <a href = "https://soccrim.clas.ufl.edu/jessica-kahler/" target = "_blank">Dr. Jessica Kahler</a>
 <br>**Co-advisor**: <a href = "https://www.rupununiwildlife.org/" target = "_blank">Dr. Matthew Hallett</a>
 
-My current research aims to understand the human-dimensions of human-jaguar coexistence and conflict in the Rupununi region of Guyana. I am applying the interdisciplinary conservation criminology framework to understand risk perceptions, environmental stewardship and guardianship intention towards jaguars and livestock. I am applying criminological and sociological theories and concepts in a new, novel setting: remote, rural, ranches and mostly-Indigenous communities.
+My past research aimed to understand the human-dimensions of human-jaguar coexistence and conflict in the Rupununi region of Guyana. I applied the interdisciplinary conservation criminology framework to understand risk perceptions, environmental stewardship and guardianship intention towards jaguars and livestock. I applied criminological and sociological theories and concepts in a new, novel setting: remote, rural, ranches and mostly-Indigenous communities.
 
-This project is part of the <a href = "https://www.swm-programme.info/country-guyana" target = "_blank">Sustainable Wildlife Management Programme-Guyana's</a> wider Human-wildlife conflict project led by <a href = "https://www.rupununiwildlife.org/" target = "_blank">Dr. Matthew Hallett</a>. 
+This project was part of the <a href = "https://www.swm-programme.info/country-guyana" target = "_blank">Sustainable Wildlife Management Programme-Guyana's</a> wider Human-wildlife conflict project led by <a href = "https://www.rupununiwildlife.org/" target = "_blank">Dr. Matthew Hallett</a>. 
 
-##### Other projects
-
-###### Land-use effects on mammal and ground-bird populations
-
-<figure>
-<img src="assets/images/research/landuse.jpg" class = "img-fluid" alt = "A chainsaw sits at the base of a tree"/>
-</figure>
-
-I am part of a collaborative project that aims to understand the impacts of extractive land use activities (logging, mining, and hunting) on populations of large and medium-bodied mammals and ground birds in Guyana. We are still in the early phases of this project. Please do get in touch if you would like to take part. We are open to additional data from Guyana, and/or technical assistance in the analyses we plan to conduct.
+We are currently working on publishing the results from this project in peer reviewed journals. Some results were published in a chapter of <a href = "https://openknowledge.fao.org/handle/20.500.14283/CD0660EN">van Vliet et al. (2024) Wildlife and people in the Rupununi</a>. You can also read about my findings in my thesis, <a href = "https://original-ufdc.uflib.ufl.edu/UFE0060744/00001">available in the University of Florida repository</a>. 
 
 ## Past research
 

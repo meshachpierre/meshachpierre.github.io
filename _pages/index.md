@@ -5,8 +5,8 @@ narrow: true
 title: Home
 ---
 <a id="top"></a>
-## Interdisciplinary socio-ecological conservation scientist ##
-### Photographer and writer ###
+## Interdisciplinary conservation scientist ##
+### Photographer ###
 
 {% include components/intro.md %}
 
